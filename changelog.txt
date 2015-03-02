@@ -1,0 +1,4 @@
+*** Simple System Status Changelog ***
+
+2015.03.01 - version 1.0.0
+ * Initial release
